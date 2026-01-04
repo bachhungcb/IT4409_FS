@@ -1,5 +1,5 @@
 [submodule "IT4409_BE"]
-	path = IT4409_BE/OnlineWebAndService
+	path = IT4409_BE
 	url = https://github.com/bachhungcb/online_web_BE.git
 [submodule "IT4409_FE"]
 	path = IT4409_FE
