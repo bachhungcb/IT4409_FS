@@ -1,0 +1,6 @@
+[submodule "IT4409_BE"]
+	path = IT4409_BE
+	url = https://github.com/bachhungcb/online_web_BE.git
+[submodule "IT4409_FE"]
+	path = IT4409_FE
+	url = https://github.com/PhucAnh0502/IT4409-FE.git
