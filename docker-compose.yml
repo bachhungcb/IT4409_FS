@@ -35,7 +35,7 @@ services:
     environment:
       - ASPNETCORE_HTTP_PORTS=80
     volumes:
-      - ./uploads_data:/app/wwwroot
+      - ./uploads_data:/app/wwwroot/uploads
     networks:
       - app_network
 
